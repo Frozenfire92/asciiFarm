@@ -1,0 +1,15 @@
+# Site settings
+name: ASCII Farm
+title: ASCII Farm
+url: http://asciifarm.com
+description: A place for my ramblings
+
+twitter_username: Frozenfire92
+github_username:  Frozenfire92
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: pygments
+
+# Build settings
+markdown: kramdown
