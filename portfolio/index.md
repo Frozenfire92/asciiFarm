@@ -4,13 +4,13 @@ title: About
 ---
 
 # October 2014
-- Taught an event for the SMU Computer Science and Mathematics Society called Teach Me How to Linux
+- Presented an event for the SMU Computer Science and Mathematics Society called Teach Me How to Linux
 
 # September 2014
 - Working on an open source threat modeling tool called [SeaSponge](https://github.com/mozilla/seasponge) for the [Mozilla Winter of Security 2014](https://wiki.mozilla.org/Security/Automation/WinterOfSecurity2014)
 
 # July 2014
-- 1st Place in the SaaSy hackathon @ [Volta Labs](http://www.voltaeffect.com/)
+- 1st Place in the SaaSy Hackathon @ [Volta Labs](http://www.voltaeffect.com/)
   - My team prototyped an open analytics software to allow individuals/organizations have an easy to use API and web interface to show the types of analytics they collect with their applications openly. 
 
 # May 2014
@@ -19,10 +19,10 @@ title: About
 
 # April 2014
 - Web designer for the [Hack-A-Week 2014](https://github.com/SMUhackaweek/SMU-Hack-A-Week-2014)
-  - SMU had asked me to design a website to promote their revamped high school programming competition. View the [website](http://smuhackaweek.github.io/SMU-Hack-A-Week-2014/)
+  - SMU hired me to design a [website](http://smuhackaweek.github.io/SMU-Hack-A-Week-2014/) to promote their revamped high school programming competition.
 
 # March 2014
-- Taught an event for the SMU Computer Science and Mathematics Society called Teach Me How to Unity
+- Presented an event for the SMU Computer Science and Mathematics Society called Teach Me How to Unity
 
 # February 2014
 - Entry for [McHacks 2014](http://mchacks.io/) @ [McGill](http://www.mcgill.ca/)
@@ -35,4 +35,4 @@ title: About
 
 # October 2013
 - Entry for Halifax Game Jam 2013
-  - For my first Hackathon I created a simple game using Unity3D called Porter.
+  - For my first hackathon I created a simple game using Unity3D called Porter.
