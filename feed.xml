@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ASCII Farm</title>
+		<description>A place for Joel</description>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Virtualbox fullscreen fun with Ubuntu 14.04</title>
+				<description>&lt;p&gt;I recently held a lecture at my school to teach and familiarize students with Linux. I used a VirtualBox VM for ease of use showing multiple desktop environments in Ubuntu. While setting it up I had to dig around to find how to make it full screen. It really is this easy&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;sudo apt-get install virtualbox-guest-dkms&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Happy virtualization!&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 02 Oct 2014 19:00:00 -0300</pubDate>
+				<link>/2014/10/02/virtualbox-fun/</link>
+				<guid isPermaLink="true">/2014/10/02/virtualbox-fun/</guid>
+			</item>
+		
+	</channel>
+</rss>
