@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: About
+title: Portfolio
 ---
 
 # October 2014
