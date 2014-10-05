@@ -1,7 +1,8 @@
 # Site settings
 name: ASCII Farm
 title: ASCII Farm
-url: http://asciifarm.com
+url: "www.asciifarm.com"
+baseurl: "/asciiFarm"
 description: A place for Joel
 
 twitter_username: Frozenfire92
