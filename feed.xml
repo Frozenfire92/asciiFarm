@@ -7,6 +7,16 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Firefox developer edition first impression</title>
+				<description>&lt;p&gt;Over the weekend I used the new Firefox Developer Edition to develop an addon to sync your bookmarks to a github repository (&lt;a href=&quot;https://github.com/valencik/taby&quot;&gt;link&lt;/a&gt;). My first impressions of the &lt;code&gt;darker side of Firefox&lt;/code&gt; were quite pleasant. Developing an addon with the SDK was very quick and easy. Sometimes the documentation was lacking, but I guess that’s where the open source community comes in right. I also found myself wishing there was a way to inspect your addons GUI (panel, etc.). One caveat with the dark interface is some favicons were impossible to see. I’m excited to see where this goes! Go build something!&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 15 Nov 2014 18:00:00 -0400</pubDate>
+				<link>/2014/11/15/firefox-dev-first-impressions/</link>
+				<guid isPermaLink="true">/2014/11/15/firefox-dev-first-impressions/</guid>
+			</item>
+		
+			<item>
 				<title>Virtualbox fullscreen fun with Ubuntu 14.04</title>
 				<description>&lt;p&gt;I recently held a lecture at my school to teach and familiarize students with Linux. I used a VirtualBox VM for ease of use showing multiple desktop environments in Ubuntu. While setting it up I had to dig around to find how to make it full screen. It really is this easy&lt;/p&gt;
 
