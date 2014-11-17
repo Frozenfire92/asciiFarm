@@ -3,6 +3,9 @@ layout: portfolio
 title: Portfolio
 ---
 
+# November 2014
+- Worked on [Taby](https://github.com/valencik/taby), a Firefox Developer Edition addon to sync your bookmarks to a github repository. Made during the the Megathon Hackathon @ [Volta Labs](http://www.voltaeffect.com/)
+
 # October 2014
 - Presented an event for the SMU Computer Science and Mathematics Society called Teach Me How to Linux
 
