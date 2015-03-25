@@ -34,7 +34,6 @@
 
     function toggleAll(e){
         var active = 'active';
-
         e.preventDefault();
         toggleClass(layout, active);
         toggleClass(menu, active);
